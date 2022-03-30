@@ -6,7 +6,7 @@
 
 
 # import subprocess
-#from selenium import webdriver
+from selenium import webdriver
 from time import sleep
 from bs4 import BeautifulSoup
 import re
